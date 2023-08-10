@@ -1,0 +1,31 @@
+<?php
+return [
+    'Подробнее' => 'More',
+    'Наши услуги' => 'Our services',
+    'Смотреть все услуги' => 'See all services',
+    'Главная' => 'Home',   
+    'Услуги' => 'Services',
+    'О компании' => 'About company',
+    'Наши клиенты' => 'Our clients',
+    'Новости' => 'News',
+    'Все новости' => 'All news',
+    'Сертификаты' => 'Certificates',
+    'Оставьте свои контакты и получите бесплатную консультацию' => 'Leave your contacts and get a free consultation',
+    'Детальный расчет стоимости по вашему проекту.' => 'Detailed cost estimate for your project.',
+    'Оставить заявку' => 'Submit your application',
+    'Спасибо. Заявка принята!' => 'Thank you. Application accepted!',
+    'Наш менеджер свяжется с вами в ближайшее время.' => 'Our manager will contact you soon.',
+    'Вернуться в главное' => 'Go Home page',
+    'Будем рады сотрудничать с Вами' => 'We will be glad to cooperate with you',
+    'Контакты' => 'Contacts',
+    'Вакансии' => 'Vacancies',
+    'Проекты' => 'Projects',
+    'Наша миссия и ценности' => 'Our mission and values',
+    'Наша миссия' => 'Our mission',
+    'Благодарственные письма' => 'Thanksgiving messages',
+    'Наши преимущества' => 'Our advantages',
+    'Как вас зовут' => 'What is your name?',
+    'Установка и обслуживание систем безопасности, автоматизации и связи.' => 'Installation and maintenance of security, automation and communication systems.',
+
+
+];
